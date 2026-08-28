@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Replace YOUR-USERNAME.github.io/YOUR-REPO below with your real
+  GitHub Pages URL once the site is published (see README.md).
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPO/index.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPO/about.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPO/publications.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPO/conferences.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPO/experience.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPO/network.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPO/cv.html</loc></url>
+</urlset>
